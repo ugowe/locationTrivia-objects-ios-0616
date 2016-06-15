@@ -5,7 +5,6 @@
 #import <Expecta.h>
 #import "FISLocation.h"
 
-
 SpecBegin(FISLocation)
 
 describe(@"FISLocation", ^{
@@ -14,7 +13,6 @@ describe(@"FISLocation", ^{
     __block FISLocation *empireState;
     __block FISLocation *flatiron;
     __block FISLocation *ladyLiberty;
-
     __block FISTrivium *joeIsAmazing;
     __block FISTrivium *markIsJustAlright;
     __block FISTrivium *mossIsTheBoss;
